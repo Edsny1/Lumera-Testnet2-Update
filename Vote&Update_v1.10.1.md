@@ -5,7 +5,7 @@
 ### Adım 1: Governance Oylaması 🗳️
 
 ```bash
-# Proposal #8 için OY VER
+# Proposal #9 için OY VER
 lumerad tx gov vote 9 yes --from wallet --chain-id lumera-testnet-2 --gas-prices 0.1ulume --gas auto --gas-adjustment 1.6 -y
 ```
 
