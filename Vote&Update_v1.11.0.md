@@ -18,7 +18,7 @@ cd $HOME
 ### Adım 3: v1.11.0 Binary'sini İndir 📥
 
 ```bash
-wget -O lumera_v1.11.0_linux_amd64.tar.gz https://github.com/LumeraProtocol/lumera/releases/download/v1.11.0/lumera_v1.10.1_linux_amd64.tar.gz
+wget -O lumera_v1.11.0_linux_amd64.tar.gz https://github.com/LumeraProtocol/lumera/releases/download/v1.11.0/lumera_v1.11.0_linux_amd64.tar.gz
 ```
 
 ### Adım 4: Arşivi Çıkar 📦
