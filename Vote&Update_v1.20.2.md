@@ -55,6 +55,10 @@ mkdir -p $HOME/.lumera/cosmovisor/upgrades/v1.20.2/bin
 mv $HOME/lumerad $HOME/.lumera/cosmovisor/upgrades/v1.20.2/bin/lumerad
 ```
 
+```bash
+sudo mv $HOME/libwasmvm.x86_64.so /root/.lumera/lib/libwasmvm.x86_64.so
+```
+
 ### Adım 8: Kurulumu Kontrol Et ✔️
 
 ```bash
