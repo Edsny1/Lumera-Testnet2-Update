@@ -8,6 +8,16 @@
 # Proposal #11 için OY VER
 lumerad tx gov vote 15 yes --from wallet --chain-id lumera-testnet-2 --gas-prices 0.1ulume --gas auto --gas-adjustment 1.6 -y
 ```
+Evm-Migration sonrası:
+```bash
+lumerad tx gov vote 15 yes \
+  --from wallet-evm \
+  --keyring-backend os \
+  --chain-id lumera-testnet-2 \
+  --gas-prices 0.1ulume \
+  --gas auto --gas-adjustment 1.6 \
+  -y
+```
 
 ### Adım 2: Çalışma Dizinine Geç 📁
 
